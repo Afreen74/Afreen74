@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Afreen kousar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/9890798-The-Coder?utm_source=Clipboard_Shot&utm_campaign=alzer81&utm_content=The%20Coder&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=alzer81&utm_content=The%20Coder&utm_medium=Social_Share"> 
+<img align="right" alt="Coding" width="400" src="https://github.com/NaguaG"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="Afreen74" /> </p>
 
