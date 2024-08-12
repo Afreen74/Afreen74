@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/NaguaG"> 
 
-<p align="left"> <img src="C:\Users\Dell\Desktopt" alt="Afreen74" /> </p>
+<p align="left"> <img src="C:\Users\Dell\Desktop\gifs\download.png" alt="Afreen74" /> </p>
 
 
 - 🎓 Graduated from **Osmania University.**
